@@ -4,4 +4,4 @@
 
 # Instruções
 
-Para visualizar o projeto da maneira correta abra diretamente o arquivo **index.html** da pasta **carsArea**.
+Para visualizar o projeto corretamente, abra o arquivo **index.html** localizado na pasta **carsArea**.
